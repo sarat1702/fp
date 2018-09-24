@@ -1,0 +1,14 @@
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb
+C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\DataLayer.pdb

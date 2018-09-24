@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="DataLayer">
+            <HintPath>..\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+    <ItemGroup>
+        <Reference Include="BusinessLayer">
+            <HintPath>..\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+</Project>

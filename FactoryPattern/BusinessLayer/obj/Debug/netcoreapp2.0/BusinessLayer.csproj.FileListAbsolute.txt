@@ -1,0 +1,10 @@
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.deps.json
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfoInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfo.cs
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb

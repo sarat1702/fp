@@ -1,0 +1,8 @@
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.deps.json
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.csproj.CoreCompileInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.AssemblyInfoInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.AssemblyInfo.cs
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.pdb
