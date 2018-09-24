@@ -12,3 +12,17 @@ C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Deb
 C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
 C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\DataLayer.dll
 C:\Users\Sarat.chaganti\Desktop\New folder\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Sarat.chaganti\Documents\GitHub\fp\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb

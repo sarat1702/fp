@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Sarat.chaganti\\Desktop\\New folder\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "C:\\Users\\Sarat.chaganti\\Documents\\GitHub\\fp\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "c:\\Users\\Sarat.chaganti\\Desktop\\New folder\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectPath": "C:\\Users\\Sarat.chaganti\\Documents\\GitHub\\fp\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\Sarat.chaganti\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Sarat.chaganti\\Desktop\\New folder\\FactoryPattern\\FactoryPattern\\obj\\",
+      "outputPath": "C:\\Users\\Sarat.chaganti\\Documents\\GitHub\\fp\\FactoryPattern\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

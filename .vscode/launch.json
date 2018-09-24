@@ -7,9 +7,9 @@
                  "type": "coreclr",
                  "request": "launch",
                  "preLaunchTask": "build",
-                 "program": "${workspaceFolder}/FactoryPattern//bin/Debug/netcoreapp2.0/FactoryPattern.dll",
+                 "program": "${workspaceFolder}/FactoryPattern/FactoryPattern//bin/Debug/netcoreapp2.0/FactoryPattern.dll",
                  "args": [],
-                 "cwd": "${workspaceFolder}/FactoryPattern/",
+                 "cwd": "${workspaceFolder}/FactoryPattern/FactoryPattern/",
                  "console": "externalTerminal",
                  "stopAtEntry": false,
                  "internalConsoleOptions": "openOnSessionStart"

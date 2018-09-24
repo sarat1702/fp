@@ -7,7 +7,7 @@
                 "type": "process",
                 "args": [
                     "build",
-                    "${workspaceFolder}/FactoryPattern//FactoryPattern.csproj"
+                    "${workspaceFolder}/FactoryPattern/FactoryPattern//FactoryPattern.csproj"
                 ],
                 "problemMatcher": "$msCompile"
             }
